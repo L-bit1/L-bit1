@@ -35,16 +35,12 @@
 
 ---
 
-## GitHub Stats
+## GitHub 统计
 
-<!-- 来自 https://github.com/anuraghazra/github-readme-stats ；换主题改 theme= 即可 -->
+<!-- 本地 SVG，不依赖 vercel（官方接口常 503） -->
 <div align="center">
-  <a href="https://github.com/L-bit1">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=L-bit1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6bcb&icon_color=79c0ff&text_color=c9d1d9&ring_color=ff6bcb" alt="RZT GitHub Stats" />
-  </a>
-  <a href="https://github.com/L-bit1">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-bit1&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ff6bcb&text_color=c9d1d9" alt="Most Used Languages" />
-  </a>
+  <img height="165" src="./assets/github-stats.svg" alt="RZT GitHub Stats" />
+  <img height="165" src="./assets/top-langs.svg" alt="最常用语言" />
 </div>
 
 ---
